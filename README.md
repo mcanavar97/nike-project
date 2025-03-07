@@ -1,6 +1,6 @@
 # nike-project
 
-In this project, a great website was created using html and css. 
+In this project, a great nike e-commerce website was created using html and css.
 
 # 🛠️ Technologies Used
 
